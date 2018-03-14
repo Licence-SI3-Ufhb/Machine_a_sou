@@ -1,0 +1,10 @@
+F:\Mes Programmes\VB.net\VbFenetre\Machine a sou\Machine a sou\bin\Debug\Machine a sou.exe.config
+F:\Mes Programmes\VB.net\VbFenetre\Machine a sou\Machine a sou\bin\Debug\Machine a sou.exe
+F:\Mes Programmes\VB.net\VbFenetre\Machine a sou\Machine a sou\bin\Debug\Machine a sou.pdb
+F:\Mes Programmes\VB.net\VbFenetre\Machine a sou\Machine a sou\bin\Debug\Machine a sou.xml
+F:\Mes Programmes\VB.net\VbFenetre\Machine a sou\Machine a sou\obj\Debug\Machine_a_sou.main.resources
+F:\Mes Programmes\VB.net\VbFenetre\Machine a sou\Machine a sou\obj\Debug\Machine_a_sou.Resources.resources
+F:\Mes Programmes\VB.net\VbFenetre\Machine a sou\Machine a sou\obj\Debug\Machine a sou.vbproj.GenerateResource.Cache
+F:\Mes Programmes\VB.net\VbFenetre\Machine a sou\Machine a sou\obj\Debug\Machine a sou.exe
+F:\Mes Programmes\VB.net\VbFenetre\Machine a sou\Machine a sou\obj\Debug\Machine a sou.xml
+F:\Mes Programmes\VB.net\VbFenetre\Machine a sou\Machine a sou\obj\Debug\Machine a sou.pdb
